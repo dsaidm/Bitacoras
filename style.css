@@ -1,0 +1,9 @@
+li{
+	color:red;
+	font-weight: bold;
+}
+
+p {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
